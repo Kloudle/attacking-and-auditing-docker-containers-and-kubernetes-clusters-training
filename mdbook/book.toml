@@ -1,0 +1,7 @@
+[book]
+title = "Attacking and Auditing Docker Containers and Kubernetes Clusters"
+author = "Kloudle"
+description = "Training course content on Attacking and Auditing Dockers Containers and Kubernetes Clusters"
+language = "en"
+multilingual = false
+src = "src"
